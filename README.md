@@ -34,7 +34,7 @@ Use zscore of to remove outliers
 
 # code
 
-DEVOLOPED BY: PRAVEEN S
+DEVELOPED BY: PRAVEEN S
 
 REGISTER NUMBER: 212222240078
 
